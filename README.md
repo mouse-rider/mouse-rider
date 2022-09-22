@@ -7,22 +7,22 @@
 -->
 
 <!-- BANNER -->
-<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+<img  src="https://github.com/mouse-rider/mouse-rider/blob/main/assets/lofi_code.gif" />
 
 <!-- Activity Stats -->
 
 <!-- <p align="right">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
+  <img src="https://profile-counter.glitch.me/mouse-rider/count.svg" />
 </p> -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mouse-rider&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
 
 <!-- <p align="right">
-   <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/years/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/repos/sumanshekhar698"/>
-  <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
+   <img src="https://badges.pufler.dev/visits/mouse-rider/mouse-rider"/>
+  <img src="https://badges.pufler.dev/years/mouse-rider"/>
+  <img src="https://badges.pufler.dev/repos/mouse-rider"/>
+  <img src="https://badges.pufler.dev/commits/monthly/mouse-rider" />
 </p> -->
 
 </br></br></br></br>
@@ -36,11 +36,11 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 - 🔭 I’m working on Building web apps using Java tech stack.
 - 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
+- 📫 Reach me @ https://www.selflearnwithus.com/
 - ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
 
 <!-- Tech Stack -->
-<!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
+<!-- <h2 align="center">Tech Stack <img src="https://github.com/mouse-rider/mouse-rider/blob/main/assets/laptop.gif" width="50"></h2> -->
 
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
@@ -75,25 +75,25 @@ Some of the toys which I play with are Spring framework and Dropwizard.
   <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
 
 <!-- <p align="right">
-<a href="https://dev.to/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sumanshekhar698" height="30" width="40" /></a>
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suman_shekhar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumanshekhar698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanshekhar698" height="30" width="40" /></a>
-<a href="https://instagram.com/thenameissuman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenameissuman_" height="30" width="40" /></a>
+<a href="https://dev.to/mouse-rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/mouse-rider/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mouse-rider" height="30" width="40" /></a>
+<a href="https://twitter.com/mouse-rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/mouse-rider/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mouse-rider" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mouse-rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/mouse-rider/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouse-rider" height="30" width="40" /></a>
+<a href="https://instagram.com/mouse_rider" target="blank"><img align="center" src="https://raw.githubusercontent.com/mouse-rider/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouse_rider" height="30" width="40" /></a>
 </p> -->
 
 <!-- <p align="center">
-<a href="https://twitter.com/suman_shekhar_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sumanshekhar698/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/thenameissuman_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/sumanshekhar698" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/mouse_rider" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouse_rider/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mouse_rider/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/mouse_rider" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p> -->
 
 <!--
 <p align="left">
-<a href = "https://linkedin.com/in/sumanshekhar698"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
-<a href="https://www.hackerrank.com/suman_sumanshek1" ><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
- <a href = "https://twitter.com/suman_shekhar_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
+<a href = "https://linkedin.com/in/mouse_rider"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="30px"/></a>
+<a href="https://www.hackerrank.com/mouse_rider" ><img  src="https://raw.githubusercontent.com/mouse_rider/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aaryachopkar" width="30" /></a>
+ <a href = "https://twitter.com/mouse_rider"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p> -->
 
   <!-- SOCIAL LINKS -->
@@ -101,13 +101,13 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 <i><h3 align="right">Connect with me</h3></i>
 
 <p align="right">
-  <a href="https://linkedin.com/in/sumanshekhar698">
+  <a href="https://linkedin.com/in/mouse_rider">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
+  <a href="https://stackoverflow.com/users/19126942/mouse_rider">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
   </a>
-  <a href="https://twitter.com/suman_shekhar_">
+  <a href="https://twitter.com/mouse_rider">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
   </a>
 </p>
